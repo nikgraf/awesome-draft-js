@@ -7,6 +7,7 @@
 - [Project on top of DraftJS](https://github.com/nikgraf/awesome-draft-js#projects-on-top-of-draftjs)
 - [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities)
 - [Blog posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles)
+- [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos)
 - [License](https://github.com/nikgraf/awesome-draft-js#license)
 
 ## Presentations
@@ -41,6 +42,12 @@
 
 * [Facebook open sources rich text editor framework Draft.js](https://code.facebook.com/posts/1684092755205505/facebook-open-sources-rich-text-editor-framework-draft-js/)
 * [This Blog Post Was Written Using Draft.js](http://thepracticaldev.com/this-blog-post-was-written-using-draft-js)
+
+---
+
+## Live Demos
+
+* [REACTing Codepen Comment Editor - DRAFTJS](http://codepen.io/rkpasia/full/jqbrpq)
 
 ## License
 
