@@ -26,6 +26,7 @@
 * [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg)
 * [DraftJS Plugin Editor](https://github.com/nikgraf/draft-js-plugin-editor)
 * [DraftJS Editor](https://github.com/AlastairTaft/draft-js-editor/)
+* [React-RTE](https://github.com/sstur/react-rte/)
 
 ---
 
