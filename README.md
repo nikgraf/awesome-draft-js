@@ -35,6 +35,7 @@
 ## Common Utilities
 
 * [BackDraftJS](https://github.com/evanc/backdraft-js)
+* [Draft Exporter](https://github.com/rkpasia/draft-js-exporter)
 
 ---
 
