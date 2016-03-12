@@ -29,6 +29,7 @@
 * [DraftJS Editor](https://github.com/AlastairTaft/draft-js-editor/)
 * [React-RTE](https://github.com/sstur/react-rte/)
 * [DraftJS Gutter](https://github.com/yepnamesjames/draft-js-gutter)
+* [DraftJS Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor)
 
 ---
 
