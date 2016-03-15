@@ -37,6 +37,7 @@
 
 * [BackDraftJS](https://github.com/evanc/backdraft-js)
 * [Draft Exporter](https://github.com/rkpasia/draft-js-exporter)
+* [DraftJS: Export ContentState to HTML](https://github.com/sstur/draft-js-export-html)
 
 ---
 
