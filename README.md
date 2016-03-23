@@ -25,8 +25,14 @@
 ## Projects on top of DraftJS
 
 * [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg)
-* [DraftJS Plugin Editor](https://github.com/nikgraf/draft-js-plugin-editor)
 * [DraftJS Editor](https://github.com/AlastairTaft/draft-js-editor/)
+* [DraftJS Plugins](https://github.com/draft-js-plugins/draft-js-plugins)
+  - [Emoji](https://www.draft-js-plugins.com/plugin/emoji)
+  - [Stickers](https://www.draft-js-plugins.com/plugin/sticker)
+  - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag)
+  - [Linkify](https://www.draft-js-plugins.com/plugin/linkify)
+  - [Mentions](https://www.draft-js-plugins.com/plugin/mention)
+  - [Undo](https://www.draft-js-plugins.com/plugin/undo)
 * [React-RTE](https://github.com/sstur/react-rte/)
 * [DraftJS Gutter](https://github.com/yepnamesjames/draft-js-gutter)
 * [DraftJS Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor)
