@@ -51,7 +51,7 @@
 ## Blog posts & Articles
 
 * [Facebook open sources rich text editor framework Draft.js](https://code.facebook.com/posts/1684092755205505/facebook-open-sources-rich-text-editor-framework-draft-js/)
-* [This Blog Post Was Written Using Draft.js](http://thepracticaldev.com/this-blog-post-was-written-using-draft-js)
+* [This Blog Post Was Written Using Draft.js](http://thepracticaldev.com/@ben/this-blog-post-was-written-using-draft-js)
 
 ---
 
