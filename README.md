@@ -52,6 +52,7 @@
 
 * [Facebook open sources rich text editor framework Draft.js](https://code.facebook.com/posts/1684092755205505/facebook-open-sources-rich-text-editor-framework-draft-js/)
 * [This Blog Post Was Written Using Draft.js](http://thepracticaldev.com/@ben/this-blog-post-was-written-using-draft-js)
+* [How Draft.js Represents Rich Text Data](https://medium.com/@rajaraodv/how-draft-js-represents-rich-text-data-eeabb5f25cf2#.7gd8psdvi)
 
 ---
 
