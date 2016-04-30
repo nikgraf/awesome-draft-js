@@ -40,6 +40,7 @@
 * [DraftJS Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor)
 * [DraftJS Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor)
 * [Megadraft](https://github.com/globocom/megadraft)
+* [React Markup Editor](https://github.com/GitbookIO/react-markup-editor)
 
 ---
 
