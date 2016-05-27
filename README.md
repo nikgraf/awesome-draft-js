@@ -42,6 +42,8 @@
 * [Megadraft](https://github.com/globocom/megadraft)
 * [React Markup Editor](https://github.com/GitbookIO/react-markup-editor)
 * [Medium Draft](https://github.com/brijeshb42/medium-draft)
+* [DraftJS Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators)
+* [DraftJS Prism](https://github.com/SamyPesse/draftjs-prism)
 
 ---
 
