@@ -35,6 +35,7 @@
   - [Undo](https://www.draft-js-plugins.com/plugin/undo)
   - [Counter](https://www.draft-js-plugins.com/plugin/counter)
   - [Autolist](https://github.com/icelab/draft-js-autolist-plugin)
+  - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin)
   - [Single Line](https://github.com/icelab/draft-js-single-line-plugin)
 * [React-RTE](https://github.com/sstur/react-rte/)
 * [DraftJS Gutter](https://github.com/yepnamesjames/draft-js-gutter)
