@@ -14,13 +14,9 @@
 * [Rich Text Editing with React @ React.js Conf 2016 by Isaac Salier-Hellendag ](https://www.youtube.com/watch?v=feUYwoLhE_4)
 * [Quick look at Draft.js](https://www.youtube.com/watch?v=6sfltBwKjsw)
 
----
-
 ## Resources
 
 * [Official Documentation](https://facebook.github.io/draft-js/)
-
----
 
 ## Projects on top of Draft.js
 
@@ -47,8 +43,6 @@
 * [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators)
 * [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)
 
----
-
 ## Common Utilities
 
 * [BackDraft.js](https://github.com/evanc/backdraft-js)
@@ -57,16 +51,12 @@
 * [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter)
 * [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)
 
----
-
 ## Blog posts & Articles
 
 * [Facebook open sources rich text editor framework Draft.js](https://code.facebook.com/posts/1684092755205505/facebook-open-sources-rich-text-editor-framework-draft-js/)
 * [This Blog Post Was Written Using Draft.js](http://thepracticaldev.com/@ben/this-blog-post-was-written-using-draft-js)
 * [How Draft.js Represents Rich Text Data](https://medium.com/@rajaraodv/how-draft-js-represents-rich-text-data-eeabb5f25cf2#.7gd8psdvi)
 * [A Beginner’s Guide to Draft JS](https://medium.com/@adrianli/a-beginner-s-guide-to-draft-js-d1823f58d8cc#.uufeulpl5)
-
----
 
 ## Live Demos
 
