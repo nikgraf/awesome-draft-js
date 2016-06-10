@@ -1,10 +1,10 @@
-# Awesome DraftJS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Draft.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **Table of Contents**
 
 - [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations)
 - [Resources](https://github.com/nikgraf/awesome-draft-js#resources)
-- [Project on top of DraftJS](https://github.com/nikgraf/awesome-draft-js#projects-on-top-of-draftjs)
+- [Project on top of Draft.js](https://github.com/nikgraf/awesome-draft-js#projects-on-top-of-draftjs)
 - [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities)
 - [Blog posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles)
 - [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos)
@@ -12,7 +12,7 @@
 
 ## Presentations
 * [Rich Text Editing with React @ React.js Conf 2016 by Isaac Salier-Hellendag ](https://www.youtube.com/watch?v=feUYwoLhE_4)
-* [Quick look at DraftJS](https://www.youtube.com/watch?v=6sfltBwKjsw)
+* [Quick look at Draft.js](https://www.youtube.com/watch?v=6sfltBwKjsw)
 
 ---
 
@@ -22,11 +22,11 @@
 
 ---
 
-## Projects on top of DraftJS
+## Projects on top of Draft.js
 
 * [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg)
-* [DraftJS Editor](https://github.com/AlastairTaft/draft-js-editor/)
-* [DraftJS Plugins](https://github.com/draft-js-plugins/draft-js-plugins)
+* [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/)
+* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins)
   - [Emoji](https://www.draft-js-plugins.com/plugin/emoji)
   - [Stickers](https://www.draft-js-plugins.com/plugin/sticker)
   - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag)
@@ -38,24 +38,24 @@
   - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin)
   - [Single Line](https://github.com/icelab/draft-js-single-line-plugin)
 * [React-RTE](https://github.com/sstur/react-rte/)
-* [DraftJS Gutter](https://github.com/yepnamesjames/draft-js-gutter)
-* [DraftJS Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor)
-* [DraftJS Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor)
+* [Draft.js Gutter](https://github.com/yepnamesjames/draft-js-gutter)
+* [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor)
+* [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor)
 * [Megadraft](https://github.com/globocom/megadraft)
 * [React Markup Editor](https://github.com/GitbookIO/react-markup-editor)
 * [Medium Draft](https://github.com/brijeshb42/medium-draft)
-* [DraftJS Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators)
-* [DraftJS Prism](https://github.com/SamyPesse/draftjs-prism)
+* [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators)
+* [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)
 
 ---
 
 ## Common Utilities
 
-* [BackDraftJS](https://github.com/evanc/backdraft-js)
-* [Draft Exporter](https://github.com/rkpasia/draft-js-exporter)
-* [DraftJS: Export ContentState to HTML](https://github.com/sstur/draft-js-export-html)
-* [DraftJS AST Exporter](https://github.com/icelab/draft-js-ast-exporter)
-* [DraftJS AST Importer](https://github.com/icelab/draft-js-ast-importer)
+* [BackDraft.js](https://github.com/evanc/backdraft-js)
+* [Draft.js Exporter](https://github.com/rkpasia/draft-js-exporter)
+* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-export-html)
+* [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter)
+* [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)
 
 ---
 
@@ -70,8 +70,8 @@
 
 ## Live Demos
 
-* [REACTing Codepen Comment Editor - DRAFTJS](http://codepen.io/rkpasia/full/jqbrpq)
-* [DraftJS Examples - A Heroku app w/ several example DraftJS Editors from different projects](http://draftjs-examples.herokuapp.com/)
+* [REACTing Codepen Comment Editor - Draft.js](http://codepen.io/rkpasia/full/jqbrpq)
+* [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
 
 ## License
 
