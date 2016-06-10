@@ -16,10 +16,6 @@
 * [Rich Text Editing with React @ React.js Conf 2016 by Isaac Salier-Hellendag ](https://www.youtube.com/watch?v=feUYwoLhE_4)
 * [Quick look at Draft.js](https://www.youtube.com/watch?v=6sfltBwKjsw)
 
-## Resources
-
-* [Official Documentation](https://facebook.github.io/draft-js/)
-
 ## Projects on top of Draft.js
 
 * [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg)
