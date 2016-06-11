@@ -6,7 +6,7 @@
 
 - [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations)
 - [Resources](https://github.com/nikgraf/awesome-draft-js#resources)
-- [Project on top of Draft.js](https://github.com/nikgraf/awesome-draft-js#projects-on-top-of-draftjs)
+- [Projects on top of Draft.js](https://github.com/nikgraf/awesome-draft-js#projects-on-top-of-draftjs)
 - [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities)
 - [Blog posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles)
 - [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos)
