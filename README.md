@@ -23,24 +23,24 @@
 
 ## Projects on top of Draft.js
 
-* [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg)
-* [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/)
-* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins)
-  - [Emoji](https://www.draft-js-plugins.com/plugin/emoji)
-  - [Stickers](https://www.draft-js-plugins.com/plugin/sticker)
-  - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag)
-  - [Linkify](https://www.draft-js-plugins.com/plugin/linkify)
-  - [Mentions](https://www.draft-js-plugins.com/plugin/mention)
-  - [Undo](https://www.draft-js-plugins.com/plugin/undo)
-  - [Counter](https://www.draft-js-plugins.com/plugin/counter)
-  - [Autolist](https://github.com/icelab/draft-js-autolist-plugin)
-  - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin)
-  - [Single Line](https://github.com/icelab/draft-js-single-line-plugin)
-* [React-RTE](https://github.com/sstur/react-rte/)
-* [Draft.js Gutter](https://github.com/yepnamesjames/draft-js-gutter)
-* [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor)
-* [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor)
-* [Megadraft](https://github.com/globocom/megadraft)
+* [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg) - WYSIWYG editor that with drag&drop, resizing & tooltips
+* [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) - rich text editor
+* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - plugin architecture on top of Draft.js
+  - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support
+  - [Stickers](https://www.draft-js-plugins.com/plugin/sticker) - Facebook-like sticker support
+  - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag) - Twitter-like hashtag support
+  - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Twitter-like hashtag support
+  - [Mentions](https://www.draft-js-plugins.com/plugin/mention) - automatically turn links into anchor-tags
+  - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button
+  - [Counter](https://www.draft-js-plugins.com/plugin/counter) - character, word & line counting
+  - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - automatic unordered/ordered list creation
+  - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - break out of block types as you type
+  - [Single Line](https://github.com/icelab/draft-js-single-line-plugin) - restrict to a single line of input
+* [React-RTE](https://github.com/sstur/react-rte/) - rich text editor
+* [Draft.js Gutter](https://github.com/yepnamesjames/draft-js-gutter) - compliments line number gutter
+* [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) - accept html as its input format, and return html to an onChange
+* [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - rich text editor similar to Facebook notes
+* [Megadraft](https://github.com/globocom/megadraft) - rich text editor
 * [React Markup Editor](https://github.com/GitbookIO/react-markup-editor)
 * [Medium Draft](https://github.com/brijeshb42/medium-draft)
 * [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators)
