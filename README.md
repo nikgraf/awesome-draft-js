@@ -41,18 +41,18 @@
 * [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) - accept html as its input format, and return html to an onChange
 * [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - rich text editor similar to Facebook notes
 * [Megadraft](https://github.com/globocom/megadraft) - rich text editor
-* [React Markup Editor](https://github.com/GitbookIO/react-markup-editor)
-* [Medium Draft](https://github.com/brijeshb42/medium-draft)
-* [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators)
-* [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)
+* [React Markup Editor](https://github.com/GitbookIO/react-markup-editor) - WYSIWYG component syncing with markdown
+* [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts
+* [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)- highlight code blocks using Prism
 
 ## Common Utilities
 
-* [BackDraft.js](https://github.com/evanc/backdraft-js)
-* [Draft.js Exporter](https://github.com/rkpasia/draft-js-exporter)
-* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-export-html)
-* [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter)
-* [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)
+* [BackDraft.js](https://github.com/evanc/backdraft-js) - function to turn a rawContentBlock into a marked-up string
+* [Draft.js Exporter](https://github.com/rkpasia/draft-js-exporter) - export and format the content from Draft.js
+* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-export-html) - export ContentState to HTML 
+* [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - export content into an abstract syntax tree (AST)
+* [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter
+* [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators) - combine multiple decorators
 
 ## Blog posts & Articles
 
