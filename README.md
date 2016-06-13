@@ -4,6 +4,7 @@
 
 **Table of Contents**
 
+- [Community](https://github.com/nikgraf/awesome-draft-js#community)
 - [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations)
 - [Resources](https://github.com/nikgraf/awesome-draft-js#resources)
 - [Projects on top of Draft.js](https://github.com/nikgraf/awesome-draft-js#projects-on-top-of-draftjs)
@@ -11,6 +12,10 @@
 - [Blog posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles)
 - [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos)
 - [License](https://github.com/nikgraf/awesome-draft-js#license)
+
+## Community 
+
+* [Draft.js Slack channel](https://draftjs.herokuapp.com/)
 
 ## Presentations
 * [Rich Text Editing with React @ React.js Conf 2016 by Isaac Salier-Hellendag ](https://www.youtube.com/watch?v=feUYwoLhE_4)
