@@ -6,60 +6,59 @@
 
 - [Community](https://github.com/nikgraf/awesome-draft-js#community)
 - [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations)
-- [Resources](https://github.com/nikgraf/awesome-draft-js#resources)
-- [Projects on top of Draft.js](https://github.com/nikgraf/awesome-draft-js#projects-on-top-of-draftjs)
+- [Projects on Top of Draft.js](https://github.com/nikgraf/awesome-draft-js#projects-on-top-of-draftjs)
 - [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities)
-- [Blog posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles)
+- [Blog Posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles)
 - [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos)
 - [License](https://github.com/nikgraf/awesome-draft-js#license)
 
 ## Community 
 
-* [Draft.js Slack channel](https://draftjs.herokuapp.com/)
+* [Slack channel](https://draftjs.herokuapp.com/)
 
 ## Presentations
 * [Rich Text Editing with React @ React.js Conf 2016 by Isaac Salier-Hellendag ](https://www.youtube.com/watch?v=feUYwoLhE_4)
 * [Quick look at Draft.js](https://www.youtube.com/watch?v=6sfltBwKjsw)
 
-## Projects on top of Draft.js
+## Projects on Top of Draft.js
 
-* [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg) - WYSIWYG editor that with drag&drop, resizing & tooltips
-* [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) - rich text editor
-* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - plugin architecture on top of Draft.js
+* [Draft WYSIWYG](https://github.com/bkniffler/draft-wysiwyg) - WYSIWYG editor that with drag&drop, resizing & tooltips.
+* [Draft.js Editor](https://github.com/AlastairTaft/draft-js-editor/) - A Rich text editor inspired by Medium & Facebook Notes.
+* [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js
   - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support
   - [Stickers](https://www.draft-js-plugins.com/plugin/sticker) - Facebook-like sticker support
   - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag) - Twitter-like hashtag support
   - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Twitter-like hashtag support
-  - [Mentions](https://www.draft-js-plugins.com/plugin/mention) - automatically turn links into anchor-tags
-  - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button
-  - [Counter](https://www.draft-js-plugins.com/plugin/counter) - character, word & line counting
-  - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - automatic unordered/ordered list creation
-  - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - break out of block types as you type
-  - [Single Line](https://github.com/icelab/draft-js-single-line-plugin) - restrict to a single line of input
-* [React-RTE](https://github.com/sstur/react-rte/) - rich text editor
-* [Draft.js Gutter](https://github.com/yepnamesjames/draft-js-gutter) - compliments line number gutter
-* [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) - accept html as its input format, and return html to an onChange
-* [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - rich text editor similar to Facebook notes
-* [Megadraft](https://github.com/globocom/megadraft) - rich text editor
-* [React Markup Editor](https://github.com/GitbookIO/react-markup-editor) - WYSIWYG component syncing with markdown
-* [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts
-* [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)- highlight code blocks using Prism
+  - [Mentions](https://www.draft-js-plugins.com/plugin/mention) - Automatically turn links into anchor-tags.
+  - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
+  - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
+  - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation.
+  - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type.
+  - [Single Line](https://github.com/icelab/draft-js-single-line-plugin) - Restrict to a single line of input.
+* [React-RTE](https://github.com/sstur/react-rte/) - A full-featured textarea replacement similar to CKEditor or TinyMCE.
+* [Draft.js Gutter](https://github.com/yepnamesjames/draft-js-gutter) - Compliments line number gutter.
+* [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) - Accept html as its input format, and return html to an onChange.
+* [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes.
+* [Megadraft](https://github.com/globocom/megadraft) - Rich text editor.
+* [React Markup Editor](https://github.com/GitbookIO/react-markup-editor) - WYSIWYG component syncing with markdown.
+* [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
+* [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)- Highlight code blocks using Prism.
 
 ## Common Utilities
 
-* [BackDraft.js](https://github.com/evanc/backdraft-js) - function to turn a rawContentBlock into a marked-up string
-* [Draft.js Exporter](https://github.com/rkpasia/draft-js-exporter) - export and format the content from Draft.js
-* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-export-html) - export ContentState to HTML 
-* [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - export content into an abstract syntax tree (AST)
-* [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter
-* [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators) - combine multiple decorators
+* [BackDraft.js](https://github.com/evanc/backdraft-js) - Function to turn a rawContentBlock into a marked-up string.
+* [Draft.js Exporter](https://github.com/rkpasia/draft-js-exporter) - Export and format the content from Draft.js.
+* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-export-html) - Export ContentState to HTML. 
+* [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (AST).
+* [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- Emport an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
+* [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators) - Combine multiple decorators.
 
-## Blog posts & Articles
+## Blog Posts & Articles
 
 * [Facebook open sources rich text editor framework Draft.js](https://code.facebook.com/posts/1684092755205505/facebook-open-sources-rich-text-editor-framework-draft-js/)
 * [This Blog Post Was Written Using Draft.js](http://thepracticaldev.com/@ben/this-blog-post-was-written-using-draft-js)
 * [How Draft.js Represents Rich Text Data](https://medium.com/@rajaraodv/how-draft-js-represents-rich-text-data-eeabb5f25cf2#.7gd8psdvi)
-* [A Beginner’s Guide to Draft JS](https://medium.com/@adrianli/a-beginner-s-guide-to-draft-js-d1823f58d8cc#.uufeulpl5)
+* [A Beginner’s Guide to Draft.js](https://medium.com/@adrianli/a-beginner-s-guide-to-draft-js-d1823f58d8cc#.uufeulpl5)
 
 ## Live Demos
 
