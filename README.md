@@ -56,6 +56,7 @@
 * [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (AST).
 * [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- Emport an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 * [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators) - Combine multiple decorators.
+* [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
 
 ## Blog Posts & Articles
 
