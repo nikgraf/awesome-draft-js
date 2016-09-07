@@ -64,6 +64,7 @@
 * [This Blog Post Was Written Using Draft.js](http://thepracticaldev.com/@ben/this-blog-post-was-written-using-draft-js)
 * [How Draft.js Represents Rich Text Data](https://medium.com/@rajaraodv/how-draft-js-represents-rich-text-data-eeabb5f25cf2#.7gd8psdvi)
 * [A Beginner’s Guide to Draft.js](https://medium.com/@adrianli/a-beginner-s-guide-to-draft-js-d1823f58d8cc#.uufeulpl5)
+* [Implementing todo list in Draft.js](http://bitwiser.in/2016/08/31/implementing-todo-list-in-draft-js.html)
 
 ## Live Demos
 
