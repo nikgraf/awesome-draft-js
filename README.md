@@ -12,7 +12,7 @@
 - [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos)
 - [License](https://github.com/nikgraf/awesome-draft-js#license)
 
-## Community 
+## Community
 
 * [Slack channel](https://draftjs.herokuapp.com/)
 
@@ -44,12 +44,13 @@
 * [React Markup Editor](https://github.com/GitbookIO/react-markup-editor) - WYSIWYG component syncing with markdown.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
 * [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)- Highlight code blocks using Prism.
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg.git) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 
 ## Common Utilities
 
 * [BackDraft.js](https://github.com/evanc/backdraft-js) - Function to turn a rawContentBlock into a marked-up string.
 * [Draft.js Exporter](https://github.com/rkpasia/draft-js-exporter) - Export and format the content from Draft.js.
-* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-export-html) - Export ContentState to HTML. 
+* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-export-html) - Export ContentState to HTML.
 * [Redraft](https://github.com/lokiuz/redraft) - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
 * [Draft.js exporter (Ruby)](https://github.com/ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML.
 * [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML
@@ -57,6 +58,8 @@
 * [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- Emport an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 * [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators) - Combine multiple decorators.
 * [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
+* [DraftJS Utils](https://github.com/jpuri/draftjs-utils.git) - Set of utility functions for DraftJS.
+* [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html.git) - Library for generating HTML for DraftJS editor content.
 
 ## Blog Posts & Articles
 
