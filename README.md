@@ -18,7 +18,8 @@
 
 ## Presentations
 * [Rich Text Editing with React @ React.js Conf 2016 by Isaac Salier-Hellendag ](https://www.youtube.com/watch?v=feUYwoLhE_4)
-* [Quick look at Draft.js](https://www.youtube.com/watch?v=6sfltBwKjsw)
+* [React Ep. 37: Draftjs by What I Learned Today – Atomic Jolt](https://www.youtube.com/watch?v=0k9suXgCtTA)
+* [008 - Draft.js Plugins @ React30](https://www.youtube.com/watch?v=w-PqnpMizcQ)
 
 ## Projects on Top of Draft.js
 
