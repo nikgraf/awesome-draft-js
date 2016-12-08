@@ -31,8 +31,8 @@
   - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support
   - [Stickers](https://www.draft-js-plugins.com/plugin/sticker) - Facebook-like sticker support
   - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag) - Twitter-like hashtag support
-  - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Twitter-like hashtag support
-  - [Mentions](https://www.draft-js-plugins.com/plugin/mention) - Automatically turn links into anchor-tags.
+  - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Automatically turn links into anchor-tags.
+  - [Mentions](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
   - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
   - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
   - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation.
