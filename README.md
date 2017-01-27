@@ -10,6 +10,7 @@
 - [Common Utilities](https://github.com/nikgraf/awesome-draft-js#common-utilities)
 - [Blog Posts & Articles](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles)
 - [Live Demos](https://github.com/nikgraf/awesome-draft-js#live-demos)
+- [Usage in Production](https://github.com/nikgraf/awesome-draft-js#usage-in-production)
 - [License](https://github.com/nikgraf/awesome-draft-js#license)
 
 ## Community
@@ -83,6 +84,9 @@
 
 * [REACTing Codepen Comment Editor - Draft.js](http://codepen.io/rkpasia/full/jqbrpq)
 * [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
+
+## Usage in Production
+* [Small Teaser](https://www.smallteaser.com/articles/write)
 
 ## License
 
