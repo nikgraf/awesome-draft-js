@@ -85,6 +85,16 @@
 * [REACTing Codepen Comment Editor - Draft.js](http://codepen.io/rkpasia/full/jqbrpq)
 * [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
 
+## Playgrounds for Examples from Official Repository (v.0.10.0)
+* [Rich Text Editor](http://codepen.io/Kiwka/pen/YNYvyG)
+* [Color Editor](http://codepen.io/Kiwka/pen/oBpVve)
+* [Convert from HTML Editor](http://codepen.io/Kiwka/pen/YNYgWa)
+* [Entity Editor](http://codepen.io/Kiwka/pen/wgpOoZ)
+* [Link Editor](http://codepen.io/Kiwka/pen/ZLvPeO)
+* [Media Editor](http://codepen.io/Kiwka/pen/rjpRzj)
+* [Plain Text Editor](http://codepen.io/Kiwka/pen/jyYJzb)
+* [Decorators Editor - Tweet example](http://codepen.io/Kiwka/pen/KaZERV)
+
 ## Usage in Production
 * [Small Teaser](https://www.smallteaser.com/articles/write)
 
