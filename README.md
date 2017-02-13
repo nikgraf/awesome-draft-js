@@ -55,6 +55,7 @@
 * [Draft.js Typeahead](https://github.com/dooly-ai/draft-js-typeahead) - Support for typeahead functionality.
 * [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
+* [Draft Extend](https://github.com/HubSpot/draft-extend) - Build extensible Draft.js editors with configurable plugins and integrated serialization.
 
 ## Common Utilities
 
@@ -70,6 +71,7 @@
 * [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils.git) - Set of utility functions for DraftJS.
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html.git) - Library for generating HTML for DraftJS editor content.
+* [Draft Convert](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 
 ## Blog Posts & Articles
 
