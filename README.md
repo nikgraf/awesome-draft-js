@@ -33,6 +33,8 @@
 * [Megadraft](https://github.com/globocom/megadraft) - Rich text editor.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg.git) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
+* [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs.
+* [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
 
 ## Plugins and Decorators Built for Draft.js
 
@@ -53,8 +55,6 @@
 * [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) - Accept html as its input format, and return html to an onChange.
 * [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)- Highlight code blocks using Prism.
 * [Draft.js Typeahead](https://github.com/dooly-ai/draft-js-typeahead) - Support for typeahead functionality.
-* [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs
-* [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
 
 ## Common Utilities
 
