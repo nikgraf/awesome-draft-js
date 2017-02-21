@@ -101,6 +101,7 @@
 
 ## Usage in Production
 * [Small Teaser](https://www.smallteaser.com/articles/write)
+* [HKW Technosphere Magazine](http://technosphere-magazine.hkw.de/)
 
 ## License
 
