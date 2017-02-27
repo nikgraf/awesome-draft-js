@@ -23,6 +23,7 @@
 * [React Ep. 37: Draftjs by What I Learned Today – Atomic Jolt](https://www.youtube.com/watch?v=0k9suXgCtTA)
 * [008 - Draft.js Plugins @ React30](https://www.youtube.com/watch?v=w-PqnpMizcQ)
 * [Draft.js at HubSpot by Ben Briggs](http://product.hubspot.com/blog/tech-talk-at-night-react-meetup)
+* [Draft.js under the hood - React Melbourne meetup](https://www.youtube.com/watch?feature=player_embedded&v=vOZAO3jFSHI)
 
 ## Standalone Editors Built on Draft.js
 
@@ -88,6 +89,7 @@
 
 * [REACTing Codepen Comment Editor - Draft.js](http://codepen.io/rkpasia/full/jqbrpq)
 * [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
+* [Draft-js Samples - An app with examples and code explanations](https://github.com/Mair/react-meetup-draftjs)
 
 ## Playgrounds for Examples from Official Repository (v.0.10.0)
 * [Rich Text Editor](http://codepen.io/Kiwka/pen/YNYvyG)
