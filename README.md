@@ -54,6 +54,15 @@
   - [RichButtons](https://github.com/jasonphillips/draft-js-richbuttons-plugin) - Add and customize rich formatting buttons.
   - [Katex](https://github.com/letranloc/draft-js-katex-plugin) - Insert and render LaTeX using Katex.
   - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax.
+  - [Buttons](https://github.com/vacenz/last-draft-js-plugins)
+  - [Color Picker](https://github.com/vacenz/last-draft-js-plugins)
+  - [Embed](https://github.com/vacenz/last-draft-js-plugins)
+  - [EmojiPicker](https://github.com/vacenz/last-draft-js-plugins)
+  - [GifPicker](https://github.com/vacenz/last-draft-js-plugins)
+  - [Link](https://github.com/vacenz/last-draft-js-plugins)
+  - [Modal](https://github.com/vacenz/last-draft-js-plugins)
+  - [Sidebar](https://github.com/vacenz/last-draft-js-plugins)
+  - [Toolbar](https://github.com/vacenz/last-draft-js-plugins)
 * [Draft.js Gutter](https://github.com/yepnamesjames/draft-js-gutter) - Compliments line number gutter.
 * [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) - Accept html as its input format, and return html to an onChange.
 * [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)- Highlight code blocks using Prism.
