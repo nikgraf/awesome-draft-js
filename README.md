@@ -96,6 +96,7 @@
 * [A Beginner’s Guide to Draft.js](https://medium.com/@adrianli/a-beginner-s-guide-to-draft-js-d1823f58d8cc#.uufeulpl5)
 * [Implementing todo list in Draft.js](http://bitwiser.in/2016/08/31/implementing-todo-list-in-draft-js.html)
 * [Draft.js Pieces](https://cannibalcoder.com/2016/12/02/draft-js-pieces/)
+* [Learning Draft.js](https://reactrocket.com/series/learning-draft-js/) - Series of blog posts on how to develop with draft.js
 
 ## Live Demos
 
