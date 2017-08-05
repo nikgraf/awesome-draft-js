@@ -36,6 +36,7 @@
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg.git) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs.
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
+* [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor. 
 
 ## Plugins and Decorators Built for Draft.js
 
