@@ -1,6 +1,6 @@
 # Awesome Draft.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[Draft.js](https://facebook.github.io/draft-js/) is a framework for building rich text editors in React.
+[Draft.js](http://draftjs.org/) is a framework for building rich text editors in React.
 
 **Table of Contents**
 
@@ -33,7 +33,7 @@
 * [Facebook Notes Clone(ish)](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes.
 * [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
-* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg.git) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
+* [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs.
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
 * [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor. 
@@ -72,9 +72,9 @@
   - [Toolbar](https://github.com/vacenz/last-draft-js-plugins)
   - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
   - [Video](https://www.draft-js-plugins.com/plugin/video)
-* [Draft.js Gutter](https://github.com/yepnamesjames/draft-js-gutter) - Compliments line number gutter.
+* [Draft.js Gutter](https://github.com/seejamescode/draft-js-gutter) - Compliments line number gutter.
 * [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) - Accept html as its input format, and return html to an onChange.
-* [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)- Highlight code blocks using Prism.
+* [Draft.js Prism](https://github.com/SamyPesse/draft-js-prism)- Highlight code blocks using Prism.
 * [Draft.js Typeahead](https://github.com/dooly-ai/draft-js-typeahead) - Support for typeahead functionality.
 * [Draft Extend](https://github.com/HubSpot/draft-extend) - Build extensible Draft.js editors with configurable plugins and integrated serialization.
 
@@ -88,10 +88,10 @@
 * [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML
 * [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (AST).
 * [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- Emport an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
-* [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators) - Combine multiple decorators.
+* [Draft.js Multidecorators](https://github.com/SamyPesse/draft-js-multidecorators) - Combine multiple decorators.
 * [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
-* [DraftJS Utils](https://github.com/jpuri/draftjs-utils.git) - Set of utility functions for DraftJS.
-* [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html.git) - Library for generating HTML for DraftJS editor content.
+* [DraftJS Utils](https://github.com/jpuri/draftjs-utils) - Set of utility functions for DraftJS.
+* [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) - Library for generating HTML for DraftJS editor content.
 * [Draft Convert](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML.
 * [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content.
 * [Draft.js Exporter (Go)](https://github.com/ejilay/draftjs) - Export Draft.js content state into HTML.
@@ -109,23 +109,23 @@
 
 ## Live Demos
 
-* [REACTing Codepen Comment Editor - Draft.js](http://codepen.io/rkpasia/full/jqbrpq)
+* [REACTing Codepen Comment Editor - Draft.js](https://codepen.io/rkpasia/full/jqbrpq)
 * [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
 * [Draft-js Samples - An app with examples and code explanations](https://github.com/Mair/react-meetup-draftjs)
 
 ## Playgrounds for Examples from Official Repository (v.0.10.0)
-* [Rich Text Editor](http://codepen.io/Kiwka/pen/YNYvyG)
-* [Color Editor](http://codepen.io/Kiwka/pen/oBpVve)
-* [Convert from HTML Editor](http://codepen.io/Kiwka/pen/YNYgWa)
-* [Entity Editor](http://codepen.io/Kiwka/pen/wgpOoZ)
-* [Link Editor](http://codepen.io/Kiwka/pen/ZLvPeO)
-* [Media Editor](http://codepen.io/Kiwka/pen/rjpRzj)
-* [Plain Text Editor](http://codepen.io/Kiwka/pen/jyYJzb)
-* [Decorators Editor - Tweet example](http://codepen.io/Kiwka/pen/KaZERV)
+* [Rich Text Editor](https://codepen.io/Kiwka/pen/YNYvyG)
+* [Color Editor](https://codepen.io/Kiwka/pen/oBpVve)
+* [Convert from HTML Editor](https://codepen.io/Kiwka/pen/YNYgWa)
+* [Entity Editor](https://codepen.io/Kiwka/pen/wgpOoZ)
+* [Link Editor](https://codepen.io/Kiwka/pen/ZLvPeO)
+* [Media Editor](https://codepen.io/Kiwka/pen/rjpRzj)
+* [Plain Text Editor](https://codepen.io/Kiwka/pen/jyYJzb)
+* [Decorators Editor - Tweet example](https://codepen.io/Kiwka/pen/KaZERV)
 
 ## Usage in Production
-* [Small Teaser](https://www.smallteaser.com/articles/write)
-* [HKW Technosphere Magazine](http://technosphere-magazine.hkw.de/)
+* [Small Teaser](https://www.smallteaser.com/login?targetUrl=%2Farticles%2Fwrite)
+* [HKW Technosphere Magazine](https://technosphere-magazine.hkw.de/)
 * [Douban Read](https://read.douban.com/editor_ng)
 
 ## License
