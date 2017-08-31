@@ -41,29 +41,37 @@
 ## Plugins and Decorators Built for Draft.js
 
 * [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js
-  - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support
-  - [Stickers](https://www.draft-js-plugins.com/plugin/sticker) - Facebook-like sticker support
-  - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag) - Twitter-like hashtag support
-  - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Automatically turn links into anchor-tags.
-  - [Mentions](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
-  - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
-  - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
+  - [Alignment](https://www.draft-js-plugins.com/plugin/alignment)
   - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation.
   - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type.
-  - [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) - Markdown syntax shortcuts.
-  - [Single Line](https://github.com/icelab/draft-js-single-line-plugin) - Restrict to a single line of input.
-  - [RichButtons](https://github.com/jasonphillips/draft-js-richbuttons-plugin) - Add and customize rich formatting buttons.
-  - [Katex](https://github.com/letranloc/draft-js-katex-plugin) - Insert and render LaTeX using Katex.
-  - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax.
   - [Buttons](https://github.com/vacenz/last-draft-js-plugins)
   - [Color Picker](https://github.com/vacenz/last-draft-js-plugins)
+  - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
+  - [Drag and Drop](https://www.draft-js-plugins.com/plugin/drag-n-drop)
   - [Embed](https://github.com/vacenz/last-draft-js-plugins)
+  - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support
   - [EmojiPicker](https://github.com/vacenz/last-draft-js-plugins)
+  - [Focus](https://www.draft-js-plugins.com/plugin/focus)
   - [GifPicker](https://github.com/vacenz/last-draft-js-plugins)
+  - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag) - Twitter-like hashtag support
+  - [Image](https://www.draft-js-plugins.com/plugin/image)
+  - [Inline Toolbar](https://www.draft-js-plugins.com/plugin/inline-toolbar)
+  - [Katex](https://github.com/letranloc/draft-js-katex-plugin) - Insert and render LaTeX using Katex.
   - [Link](https://github.com/vacenz/last-draft-js-plugins)
+  - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Automatically turn links into anchor-tags.
+  - [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) - Markdown syntax shortcuts.
+  - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax.
+  - [Mention](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
   - [Modal](https://github.com/vacenz/last-draft-js-plugins)
+  - [Resizeable](https://www.draft-js-plugins.com/plugin/resizeable)
+  - [RichButtons](https://github.com/jasonphillips/draft-js-richbuttons-plugin) - Add and customize rich formatting buttons.
+  - [Side Toolbar](https://www.draft-js-plugins.com/plugin/side-toolbar)
   - [Sidebar](https://github.com/vacenz/last-draft-js-plugins)
+  - [Single Line](https://github.com/icelab/draft-js-single-line-plugin) - Restrict to a single line of input.
+  - [Sticker](https://www.draft-js-plugins.com/plugin/sticker) - Facebook-like sticker support
   - [Toolbar](https://github.com/vacenz/last-draft-js-plugins)
+  - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
+  - [Video](https://www.draft-js-plugins.com/plugin/video)
 * [Draft.js Gutter](https://github.com/yepnamesjames/draft-js-gutter) - Compliments line number gutter.
 * [Draft.js Basic HTML Editor](https://github.com/dburrows/draft-js-basic-html-editor) - Accept html as its input format, and return html to an onChange.
 * [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)- Highlight code blocks using Prism.
