@@ -1,6 +1,6 @@
 # Awesome Draft.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[Draft.js](http://draftjs.org/) is a framework for building rich text editors in React.
+[Draft.js](https://draftjs.org/) is a framework for building rich text editors in React.
 
 **Table of Contents**
 
