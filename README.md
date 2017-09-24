@@ -63,6 +63,7 @@
   - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax.
   - [Mention](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
   - [Modal](https://github.com/vacenz/last-draft-js-plugins)
+  - [Prism](https://github.com/withspectrum/draft-js-prism-plugin) - Syntax highlight code blocks with Prism.
   - [Resizeable](https://www.draft-js-plugins.com/plugin/resizeable)
   - [RichButtons](https://github.com/jasonphillips/draft-js-richbuttons-plugin) - Add and customize rich formatting buttons.
   - [Side Toolbar](https://www.draft-js-plugins.com/plugin/side-toolbar)
