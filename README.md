@@ -130,6 +130,7 @@
 * [Small Teaser](https://www.smallteaser.com/login?targetUrl=%2Farticles%2Fwrite)
 * [HKW Technosphere Magazine](https://technosphere-magazine.hkw.de/)
 * [Douban Read](https://read.douban.com/editor_ng)
+* [Dooly](https://www.dooly.ai)
 
 ## License
 
