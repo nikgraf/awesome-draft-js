@@ -36,7 +36,7 @@
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs.
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
-* [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor. 
+* [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor.
 
 ## Plugins and Decorators Built for Draft.js
 
@@ -47,7 +47,7 @@
   - [Buttons](https://github.com/vacenz/last-draft-js-plugins)
   - [Color Picker](https://github.com/vacenz/last-draft-js-plugins)
   - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
-  - [Divider](https://github.com/simsim0709/draft-js-plugins/tree/master/draft-js-divider-plugin) 
+  - [Divider](https://github.com/simsim0709/draft-js-plugins/tree/master/draft-js-divider-plugin)
   - [Drag and Drop](https://www.draft-js-plugins.com/plugin/drag-n-drop)
   - [Embed](https://github.com/vacenz/last-draft-js-plugins)
   - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support
@@ -80,6 +80,7 @@
 * [Draft.js Typeahead](https://github.com/dooly-ai/draft-js-typeahead) - Support for typeahead functionality.
 * [Draft Extend](https://github.com/HubSpot/draft-extend) - Build extensible Draft.js editors with configurable plugins and integrated serialization.
 * [Draft.js Code](https://github.com/SamyPesse/draft-js-code) - A collection of low-level utilities for nicer code editing
+* [Draft.js Annotatable](https://github.com/cltk/annotations) - Out of the box annotation system for Draft.js with support for user-created annotations.  
 
 ## Common Utilities
 
