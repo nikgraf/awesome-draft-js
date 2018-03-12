@@ -37,6 +37,7 @@
 * [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs.
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
 * [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor.
+* [Draftail](https://github.com/springload/draftail/) -  A configurable rich text editor based on Draft.js, built for Wagtail.
 
 ## Plugins and Decorators Built for Draft.js
 
