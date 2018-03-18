@@ -112,6 +112,7 @@
 * [Implementing todo list in Draft.js](http://bitwiser.in/2016/08/31/implementing-todo-list-in-draft-js.html)
 * [Draft.js Pieces](https://cannibalcoder.com/2016/12/02/draft-js-pieces/)
 * [Learning Draft.js](https://reactrocket.com/series/learning-draft-js/) - Series of blog posts on how to develop with draft.js
+* [Why Wagtail’s new editor is built with Draft.js](https://wagtail.io/blog/why-wagtail-new-editor-is-built-with-draft-js/)
 
 ## Live Demos
 
