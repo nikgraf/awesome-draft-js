@@ -113,6 +113,7 @@
 * [Draft.js Pieces](https://cannibalcoder.com/2016/12/02/draft-js-pieces/)
 * [Learning Draft.js](https://reactrocket.com/series/learning-draft-js/) - Series of blog posts on how to develop with draft.js
 * [Why Wagtail’s new editor is built with Draft.js](https://wagtail.io/blog/why-wagtail-new-editor-is-built-with-draft-js/)
+* [Rethinking rich text pipelines with Draft.js](https://wagtail.io/blog/rethinking-rich-text-pipelines-with-draft-js/)
 
 ## Live Demos
 
