@@ -121,6 +121,7 @@
 * [REACTing Codepen Comment Editor - Draft.js](https://codepen.io/rkpasia/full/jqbrpq)
 * [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
 * [Draft-js Samples - An app with examples and code explanations](https://github.com/Mair/react-meetup-draftjs)
+* [Draftail Playground](https://draftail-playground.herokuapp.com/) – Wagtail’s Draft.js dependencies as a standalone demo.
 
 ## Playgrounds for Examples from Official Repository (v.0.10.0)
 * [Rich Text Editor](https://codepen.io/Kiwka/pen/YNYvyG)
