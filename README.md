@@ -139,6 +139,7 @@
 * [Douban Read](https://read.douban.com/editor_ng)
 * [Dooly](https://www.dooly.ai)
 * [Wagtail](https://wagtail.io/)
+* [Patreon](https://www.patreon.com/)
 
 ## License
 
