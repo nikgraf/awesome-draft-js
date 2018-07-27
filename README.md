@@ -38,6 +38,7 @@
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
 * [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor.
 * [Draftail](https://github.com/springload/draftail/) -  A configurable rich text editor based on Draft.js, built for Wagtail.
+* [Braft](https://github.com/margox/braft-editor) - Extensible Draft JS Editor
 
 ## Plugins and Decorators Built for Draft.js
 
