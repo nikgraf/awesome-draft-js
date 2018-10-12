@@ -39,7 +39,6 @@
 * [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notations editor.
 * [Draftail](https://github.com/springload/draftail/) -  A configurable rich text editor based on Draft.js, built for Wagtail.
 * [Braft](https://github.com/margox/braft-editor) - Extensible Draft JS Editor
-* [Sticky](https://github.com/nadunindunil/sticky) - A simple note taking and clipboard managing desktop application
 
 ## Plugins and Decorators Built for Draft.js
 
