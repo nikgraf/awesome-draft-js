@@ -36,9 +36,10 @@
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
 * [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs.
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
-* [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notaions editor.
+* [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notations editor.
 * [Draftail](https://github.com/springload/draftail/) -  A configurable rich text editor based on Draft.js, built for Wagtail.
 * [Braft](https://github.com/margox/braft-editor) - Extensible Draft JS Editor
+* [Sticky](https://github.com/nadunindunil/sticky) - A simple note taking and clipboard managing desktop application
 
 ## Plugins and Decorators Built for Draft.js
 
@@ -105,6 +106,7 @@
 * [Draft.js Exporter (Go)](https://github.com/ejilay/draftjs) - Export Draft.js content state into HTML.
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model.
 * [Draft.js filters](https://github.com/thibaudcolas/draftjs-filters) - Filter Draft.js content to preserve only the formatting you allow.
+* [Sticky](https://github.com/nadunindunil/sticky) - A simple note taking and clipboard managing desktop application
 
 ## Blog Posts & Articles
 
