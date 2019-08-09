@@ -122,7 +122,6 @@
 ## Live Demos
 
 * [REACTing Codepen Comment Editor - Draft.js](https://codepen.io/rkpasia/full/jqbrpq)
-* [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
 * [Draft-js Samples - An app with examples and code explanations](https://github.com/Mair/react-meetup-draftjs)
 * [Draftail Playground](https://draftail-playground.herokuapp.com/) – Wagtail’s Draft.js dependencies as a standalone demo.
 * [Draft drag and drop demo for mobile browser](https://github.com/jan4984/draft-dnd-example)
