@@ -120,9 +120,6 @@
 * [Rethinking rich text pipelines with Draft.js](https://wagtail.io/blog/rethinking-rich-text-pipelines-with-draft-js/)
 
 ## Live Demos
-
-* [REACTing Codepen Comment Editor - Draft.js](https://codepen.io/rkpasia/full/jqbrpq)
-* [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
 * [Draft-js Samples - An app with examples and code explanations](https://github.com/Mair/react-meetup-draftjs)
 * [Draftail Playground](https://draftail-playground.herokuapp.com/) – Wagtail’s Draft.js dependencies as a standalone demo.
 * [Draft drag and drop demo for mobile browser](https://github.com/jan4984/draft-dnd-example)
@@ -138,7 +135,6 @@
 * [Decorators Editor - Tweet example](https://codepen.io/Kiwka/pen/KaZERV)
 
 ## Usage in Production
-* [Small Teaser](https://www.smallteaser.com/login?targetUrl=%2Farticles%2Fwrite)
 * [HKW Technosphere Magazine](https://technosphere-magazine.hkw.de/)
 * [Douban Read](https://read.douban.com/editor_ng)
 * [Dooly](https://www.dooly.ai)
