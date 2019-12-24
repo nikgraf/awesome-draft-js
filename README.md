@@ -44,7 +44,6 @@
 
 * [Draft.js Plugins](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js
   - [Alignment](https://www.draft-js-plugins.com/plugin/alignment)
-  - [Autolist](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation.
   - [Block Breakout](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type.
   - [Buttons](https://github.com/vacenz/last-draft-js-plugins)
   - [Color Picker](https://github.com/vacenz/last-draft-js-plugins)
@@ -62,6 +61,7 @@
   - [Katex](https://github.com/letranloc/draft-js-katex-plugin) - Insert and render LaTeX using Katex.
   - [Link](https://github.com/vacenz/last-draft-js-plugins)
   - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Automatically turn links into anchor-tags.
+  - [List](https://github.com/samuelmeuli/draft-js-list-plugin) - Automatic list creation, nested lists
   - [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) - Markdown syntax shortcuts.
   - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax.
   - [Mention](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
