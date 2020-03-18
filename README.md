@@ -135,6 +135,7 @@
 * [Decorators Editor - Tweet example](https://codepen.io/Kiwka/pen/KaZERV)
 
 ## Usage in Production
+* [StoryChief](https://www.storychief.io/)
 * [HKW Technosphere Magazine](https://technosphere-magazine.hkw.de/)
 * [Douban Read](https://read.douban.com/editor_ng)
 * [Dooly](https://www.dooly.ai)
