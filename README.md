@@ -63,7 +63,7 @@
   - [Linkify](https://www.draft-js-plugins.com/plugin/linkify) - Automatically turn links into anchor-tags.
   - [List](https://github.com/samuelmeuli/draft-js-list-plugin) - Automatic list creation, nested lists
   - [Markdown Shortcuts](https://github.com/ngs/draft-js-markdown-shortcuts-plugin/) - Markdown syntax shortcuts.
-  - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax.
+  - [Mathjax](https://github.com/tarjei/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax.
   - [Mention](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
   - [Modal](https://github.com/vacenz/last-draft-js-plugins)
   - [Prism](https://github.com/withspectrum/draft-js-prism-plugin) - Syntax highlight code blocks with Prism.
