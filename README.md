@@ -34,7 +34,7 @@
 * [Megadraft](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility.
 * [Medium Draft](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
-* [Dante 2](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs.
+* [Dante](https://github.com/michelson/dante) - Just another Medium clone built on top of DraftJs.
 * [Last Draft](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
 * [Z-Editor](https://github.com/Z-Editor/Z-Editor) - Online Z-notations editor.
 * [Draftail](https://github.com/springload/draftail/) -  A configurable rich text editor based on Draft.js, built for Wagtail.
